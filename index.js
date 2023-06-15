@@ -39,6 +39,7 @@ function validarSenha(senha) {
   }
 
 //questão 3
+
 function Fatorial(numero) {
     var resultado = 1;
   
@@ -50,6 +51,7 @@ function Fatorial(numero) {
   }
 
 //questão 4
+
 function quadradoPerfeito(numero){
     var quadrado = numero**(1/2)
     while (quadrado*quadrado <= numero){
